@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Producto.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Principal.cs" Line="10" Column="21" />
+      <File FileName="Producto.cs" Line="6" Column="24" />
+      <File FileName="Libro.cs" Line="6" Column="23" />
+      <File FileName="Dvd.cs" Line="4" Column="29" />
+      <File FileName="Tienda.cs" Line="30" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
